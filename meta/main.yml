@@ -2,11 +2,12 @@
 dependencies: []
 
 galaxy_info:
-  author: geerlingguy
-  description: Apache 2.x for RedHat/CentOS/Debian/Ubuntu/Solaris/Suse.
-  company: "Midwestern Mac, LLC"
+  author: erikmouw
+  description: Apache 2.x for RedHat/CentOS/Debian/Ubuntu/Solaris/Suse. Forked from geerlingguy/apache.
+  company: "Snow B.V."
   license: "license (BSD, MIT)"
   min_ansible_version: 1.9
+  github_branch: integrate
   platforms:
     - name: EL
       versions:
