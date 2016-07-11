@@ -2,9 +2,9 @@
 dependencies: []
 
 galaxy_info:
-  author: erikmouw
-  description: Apache 2.x for RedHat/CentOS/Debian/Ubuntu/Solaris/Suse. Forked from geerlingguy/apache.
-  company: "Snow B.V."
+  author: Varut
+  description: Apache 2.x for RedHat/CentOS/Debian/Ubuntu/Solaris/Suse. Forked from erikmouw/apache.
+  company: "Versent"
   license: "license (BSD, MIT)"
   min_ansible_version: 1.9
   github_branch: integrate
